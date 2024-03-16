@@ -1,8 +1,6 @@
-# Jacky-et-Alex-SEproject
-Config files for my GitHub profile.
-# 你的存储库名称
+# Jakcy et Alex SEproject 
 
-这是一个关于你存储库的简短描述。
+This is my first project with alex in ZUST at CYU about SE
 
 ## 如何使用
 
